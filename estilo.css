@@ -1,0 +1,29 @@
+html {
+    box-sizing: border-box;
+  }
+
+
+form{
+position: relative;
+width: 500px;
+height: 600px;
+padding-left: 200px;
+padding-top: 300px;
+background-color: rgb(126, 166, 201);
+border-radius: 40px;
+margin:auto;
+
+
+}
+
+
+body {
+    background-color: blue;
+
+}
+
+p, label {
+    
+    font-family: 'Proza Libre', sans-serif;
+
+}
